@@ -1,6 +1,6 @@
 # Bill Mo Hall
 
-![Alt text](icon.jpg?raw=true "Icon"){:height="150px" width="150px"}.
+<img src="icon.jpg" width="150">
 
 An event app for iOS and Android built with React Native for one of the halls of accommodation at Loughborough University. This was my first app built with react-native, it uses an API to retrieve event data from a server and display it on a calendar to the user.
 
